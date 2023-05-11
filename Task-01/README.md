@@ -1,9 +1,13 @@
 ## Basic Understanding Of SpringBoot By Creating A Project :
 
 - In this project we have 4 packages :
+
   1- Pojo
+  
   2- Controller
+  
   3- Service
+  
   4- Repository
    
 - Pojo Package consist of one class name as Payment . In this class , 5 variables are there name as paymentId , status , transactionId , price and orderId . Other than that we have getter-setters , constructors and toString method .
